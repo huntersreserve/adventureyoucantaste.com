@@ -10,11 +10,11 @@ layout: default
 
 [![SuiteCommerce](./img/logo-suitecommerce.png)](https://ptdrv.linkedin.com/cr4vcaq)
 
-[![Shopify](./img/logo-shopify.png)](https://shopify.adventureyoucantaste.com)
+[![Shopify](./img/logo-shopify.png)](http://shopify.adventureyoucantaste.com)
 
 [![Magento](./img/logo-magento.png)](http://10.10.15.40)
 
-[![BigCommerce](./img/logo-bigcommerce.png)](https://bigcommerce.adventureyoucantaste.com)
+[![BigCommerce](./img/logo-bigcommerce.png)](https://adventureyoucantaste.mybigcommerce.com/)
 
 [![WooCommerce](./img/logo-woocommerce.png)](http://10.10.15.35)
 
