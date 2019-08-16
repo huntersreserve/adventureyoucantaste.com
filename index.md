@@ -8,10 +8,10 @@ layout: default
 
 # Storefront Platform Options:
 
-[![Shopify (Beta)](./img/logo-shopify.png)](http://beta.huntersreserve.com)
+[![Shopify (Beta)](./img/logo-shopify-beta.png)](http://beta.huntersreserve.com)
 
 
-[![Shopify (Dev)](./img/logo-shopify.png)](https://adventure-you-can-taste-dev.myshopify.com)
+[![Shopify (Dev)](./img/logo-shopify-dev.png)](https://adventure-you-can-taste-dev.myshopify.com)
 
 
 <br>
